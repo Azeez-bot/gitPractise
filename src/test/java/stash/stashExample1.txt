@@ -1,1 +1,3 @@
-Example for stash 
+Example for stash
+
+Example 2 for stash

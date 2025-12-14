@@ -1,0 +1,67 @@
+[33m4080423[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/dev
+[33m4080423[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{1}: rebase (start): checkout master
+[33mb92d3e9[m[33m ([m[1;31morigin/dev[m[33m)[m HEAD@{2}: checkout: moving from master to dev
+[33m4080423[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{3}: commit: reflog example 2
+[33m9c6fbbb[m HEAD@{4}: pull: Merge made by the 'ort' strategy.
+[33m6f0002a[m HEAD@{5}: commit: reflog example 1
+[33maafe188[m HEAD@{6}: checkout: moving from dev to master
+[33mb92d3e9[m[33m ([m[1;31morigin/dev[m[33m)[m HEAD@{7}: commit: stash example
+[33m4fc89f9[m HEAD@{8}: reset: moving to HEAD
+[33m4fc89f9[m HEAD@{9}: revert: Reapply "stash example"
+[33m93a5940[m HEAD@{10}: reset: moving to HEAD
+[33m93a5940[m HEAD@{11}: revert: Revert "stash example"
+[33m2393850[m HEAD@{12}: commit: stash example
+[33m95b295d[m HEAD@{13}: checkout: moving from master to dev
+[33maafe188[m HEAD@{14}: checkout: moving from master to master
+[33maafe188[m HEAD@{15}: checkout: moving from dev to master
+[33m95b295d[m HEAD@{16}: merge master: Merge made by the 'ort' strategy.
+[33m8ad9bdb[m HEAD@{17}: cherry-pick: cherry pick 3
+[33m6925e74[m HEAD@{18}: checkout: moving from master to dev
+[33maafe188[m HEAD@{19}: commit: cherry pick 3
+[33m3a36183[m HEAD@{20}: checkout: moving from master to master
+[33m3a36183[m HEAD@{21}: checkout: moving from dev to master
+[33m6925e74[m HEAD@{22}: cherry-pick: rebase example 2
+[33m9f51bb1[m HEAD@{23}: cherry-pick: cherry pick
+[33m265f09f[m HEAD@{24}: checkout: moving from master to dev
+[33m3a36183[m HEAD@{25}: commit: rebase example 2
+[33m6e7ea1f[m HEAD@{26}: commit: cherry pick
+[33m7fd465a[m HEAD@{27}: pull: Fast-forward
+[33m68080a0[m HEAD@{28}: checkout: moving from dev to master
+[33m265f09f[m HEAD@{29}: checkout: moving from master to dev
+[33m68080a0[m HEAD@{30}: checkout: moving from dev to master
+[33m265f09f[m HEAD@{31}: commit: merge example
+[33m68080a0[m HEAD@{32}: checkout: moving from master to dev
+[33m68080a0[m HEAD@{33}: checkout: moving from dev to master
+[33m68080a0[m HEAD@{34}: rebase (finish): returning to refs/heads/dev
+[33m68080a0[m HEAD@{35}: rebase (start): checkout master
+[33mdc4bbb7[m HEAD@{36}: checkout: moving from master to dev
+[33m68080a0[m HEAD@{37}: commit: rebase example 2
+[33mdc4bbb7[m HEAD@{38}: checkout: moving from master to master
+[33mdc4bbb7[m HEAD@{39}: checkout: moving from dev to master
+[33mdc4bbb7[m HEAD@{40}: checkout: moving from master to dev
+[33mdc4bbb7[m HEAD@{41}: checkout: moving from dev to master
+[33mdc4bbb7[m HEAD@{42}: rebase (finish): returning to refs/heads/dev
+[33mdc4bbb7[m HEAD@{43}: rebase (start): checkout dc4bbb7
+[33ma542e5b[m HEAD@{44}: checkout: moving from master to dev
+[33mdc4bbb7[m HEAD@{45}: commit: rebase example
+[33ma542e5b[m HEAD@{46}: checkout: moving from dev to master
+[33ma542e5b[m HEAD@{47}: checkout: moving from master to dev
+[33ma542e5b[m HEAD@{48}: reset: moving to a542e5b
+[33mad411bc[m HEAD@{49}: pull: Fast-forward
+[33ma542e5b[m HEAD@{50}: reset: moving to a542e5b
+[33mad411bc[m HEAD@{51}: pull: Merge made by the 'ort' strategy.
+[33m0c464f2[m HEAD@{52}: commit: resetted changed soft
+[33ma542e5b[m HEAD@{53}: reset: moving to a542e5b
+[33m0073d55[m HEAD@{54}: pull: Merge made by the 'ort' strategy.
+[33ma49132d[m HEAD@{55}: commit: reset failed
+[33m1f16be3[m HEAD@{56}: reset: moving to 1f16be3
+[33mb0ef647[m HEAD@{57}: commit: after reset 1
+[33m1f16be3[m HEAD@{58}: reset: moving to 1f16be3
+[33me6a6699[m HEAD@{59}: reset: moving to head
+[33me6a6699[m HEAD@{60}: reset: moving to HEAD
+[33me6a6699[m HEAD@{61}: commit: reset example 2
+[33m1f16be3[m HEAD@{62}: commit: reset example
+[33ma542e5b[m HEAD@{63}: reset: moving to HEAD
+[33ma542e5b[m HEAD@{64}: revert: Revert "fist commit"
+[33m36c5697[m HEAD@{65}: commit: fist commit
+[33m3cea577[m HEAD@{66}: commit (initial): initial commit

@@ -1,3 +1,6 @@
 Example for stash
 
 Example 2 for stash
+
+
+Example 1 change of git rebase -----r1

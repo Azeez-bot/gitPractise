@@ -3,3 +3,5 @@ Example 1 for rebase
 Example 2 for rebase
 
 Example 1 to track rebase commit
+
+Example 2 to track rebase commit

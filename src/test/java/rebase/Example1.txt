@@ -7,3 +7,5 @@ Example 1 to track rebase commit
 Example 2 to track rebase commit
 
 Example 3 to track rebase commit
+
+Example 1 to track merge check commit

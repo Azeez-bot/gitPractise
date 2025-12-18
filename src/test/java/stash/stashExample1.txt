@@ -4,3 +4,4 @@ Example 2 for stash
 
 
 Example 1 change of git rebase -----r1
+Example 2 change of git rebase -----r2

@@ -8,9 +8,13 @@ Today we had planted many tree's
 
 Today we had planted 12 varieties of tree's
 
+<<<<<<< HEAD
 Today is sunday
 
 Today I'll do pull workout and the exercises are ready
 
 Today I'll do pull workout and the exercises are ready
 And Tomorrow is Monday Again
+=======
+Today is sunday
+>>>>>>> parent of 6a12119 (adding details about tomorrows day)
